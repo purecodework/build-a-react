@@ -21,6 +21,7 @@
 		"husky": "^8.0.3",
 		"parser": "link:@typescript-eslint/eslint-plugin,@typescript-eslint/parser",
 		"prettier": "^2.8.8",
+		"rollup": "^3.23.0",
 		"typescript": "^5.0.4"
 	}
 }
